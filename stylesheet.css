@@ -1,0 +1,14 @@
+body {
+    background: gainsboro;
+  }
+  
+  h1{
+    color:#60A5FA;
+  }
+  h3{
+    color: #F87171;
+  }
+  
+  p a:hover{
+    background: #E5E7EB;
+  }
